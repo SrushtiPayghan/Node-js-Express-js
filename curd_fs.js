@@ -4,7 +4,7 @@ const myCURD=path.join(__dirname,'CURD');
 const mypath=`${myCURD}/curd.txt`;
 
 // Create
- fs.writeFileSync(mypath,'CREATE UPDATE READ DELETE');
+//  fs.writeFileSync(mypath,'CREATE UPDATE READ DELETE');
 
 // Read (hexadecimal format)
 // fs.readFile(mypath,(err,file)=>{
