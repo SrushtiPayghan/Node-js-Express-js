@@ -8,9 +8,9 @@ connectDB();
 
 const addEmployee=async ()=>{
     await Employee.create({
-        name:"srushti payghan",
-        email:"srushtipayghan@gmail.com",
-        position:"software Engineer",
+        name:"Priti Katkade",
+        email:"priti01@gmail.com",
+        position:"Developer",
         department:"IT"
     })
 }
