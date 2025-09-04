@@ -20,6 +20,7 @@
     "axois": "^0.0.1-security",
     "ejs": "^3.1.10",
     "express": "^5.1.0",
+    "mongoose": "^8.18.0",
     "nodemon": "^3.1.10"
   }
 }
